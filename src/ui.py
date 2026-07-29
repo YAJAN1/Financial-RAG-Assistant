@@ -8594,7 +8594,7 @@ if q:
 st.markdown("""
 <div class="vfooter">
   <div class="vfooter-text">
-    Built by Yash Chaudhary &nbsp;·&nbsp; Financial RAG Assistant v9 &nbsp;·&nbsp;
+     &nbsp;·&nbsp; Financial RAG Assistant v9 &nbsp;·&nbsp;
     Llama 3.3 × Groq × ChromaDB × FinBERT · Portfolio · Analyst Mode
   </div>
 </div>
